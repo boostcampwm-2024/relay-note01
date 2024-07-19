@@ -1,4 +1,5 @@
-# relay-note01
+# 하루 5분 투자로 당신도 소프트웨어 장인이 될 수 있다!
+![야나두 조정석](https://gist.github.com/user-attachments/assets/d2693db2-a55c-47a1-83a2-55dde1e483d7)
 
 ## 퀘스트 제작 기준
 
